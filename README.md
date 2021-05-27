@@ -3,4 +3,4 @@ This repo holds the files that were used to scrape twitter data from various bra
 
 This was a personal project completed in December 2020. The project scrapes twitter and retrieves tweets from brands. Then builds a machine learning model based to examine tweet text and metadata to distinguish between humorous and non-humorous posts.
 
-The article providing an overview for this project can be found [here].(https://github.com/MattTPin/brand_twitter_humour_machine_learning/blob/main/article/article.md)
+The article providing an overview for this project can be found [here](https://github.com/MattTPin/brand_twitter_humour_machine_learning/blob/main/article/article.md).
