@@ -4,7 +4,7 @@
 
 Social media is an effective way to market to modern consumers, with most brands now running Twitter and Instagram accounts. While early efforts to gain a following on these online platforms were very stiff, traditional, and not particularly effective, things have changed significantly in recent years. This is because brands have since cracked the code on how to present themselves in a way that effectively leads to high levels of online traction. That is to say, with a relatable, self-aware, and sharply humorous image.
 
-![](images/dennys.png)
+![](../img/dennys.png)
 
 An example of a "humours" tweet
 
